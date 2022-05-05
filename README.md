@@ -1,6 +1,6 @@
 # scripts-for-packages
 
-     $ git clone 
+     $ git clone https://github.com/Aswathir26/scripts-for-packages
    
    
    
